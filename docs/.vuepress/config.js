@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/docs/',
+  base: '/gdhz/',
   title: 'GDHZ',
   description: '孤独患者的个人博客',
   themeConfig: {
