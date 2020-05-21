@@ -1,9 +1,15 @@
 {
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "deploy": "sh deploy.sh"
   },
   "devDependencies": {
+    "moment": "^2.26.0",
     "vuepress": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:yinyongxin/gdhz.git"
   }
 }
