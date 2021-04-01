@@ -4906,6 +4906,11 @@ mkdirp@^0.5.1, mkdirp@^0.5.3, mkdirp@~0.5.1, mkdirp@~0.5.x:
   dependencies:
     minimist "^1.2.5"
 
+moment@^2.26.0:
+  version "2.29.1"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.1.tgz#b2be769fa31940be9eeea6469c075e35006fa3d3"
+  integrity sha512-kHmoybcPV8Sqy59DwNDY3Jefr64lK/by/da0ViFcuA4DH0vQg5Q6Ze5VimxkfQNSC+Mls/Kx53s7TjP1RhFEDQ==
+
 move-concurrently@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npm.taobao.org/move-concurrently/download/move-concurrently-1.0.1.tgz#be2c005fda32e0b29af1f05d7c4b33214c701f92"
@@ -7732,9 +7737,9 @@ xtend@^4.0.0, xtend@~4.0.1:
   integrity sha1-u3J3n1+kZRhrH0OPZ0+jR/2121Q=
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npm.taobao.org/y18n/download/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha1-le+U+F7MgdAHwmThkKEg8KPIVms=
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yallist@^2.1.2:
   version "2.1.2"
